@@ -1,0 +1,139 @@
+pergunta1:Qual é a função principal do Poder Judiciário?
+a:Legislar
+b:Executar leis
+c:Interpretar e aplicar leis
+d:Elaborar políticas públicas
+correta:c
+
+pergunta2:Qual é o principal objetivo do Direito Penal?
+a:Regular as relações comerciais
+b:Proteger os interesses do Estado
+c:Prevenir e punir infrações criminais
+d:Estabelecer regras de conduta social
+correta:c
+
+pergunta3:O que é o princípio da legalidade?
+a:Princípio que define a independência dos poderes
+b:Princípio que estabelece que ninguém é obrigado a fazer ou deixar de fazer algo senão em virtude de lei
+c:Princípio que regula a distribuição de competências
+d:Princípio que assegura a liberdade de expressão
+correta:b
+
+pergunta4:Qual é o principal instrumento processual utilizado para garantir a proteção de direitos fundamentais?
+a:Mandado de segurança
+b:Recurso extraordinário
+c:Apelação
+d:Habeas corpus
+correta:d
+
+pergunta5:O que é o direito constitucional?
+a:Ramo do direito que trata das relações de trabalho
+b:Ramo do direito que regula as atividades comerciais
+c:Ramo do direito que trata da organização do Estado e dos direitos e garantias fundamentais
+d:Ramo do direito que trata das questões ambientais
+correta:c
+
+pergunta6:Qual é o prazo para a interposição de um recurso ordinário em matéria civil?
+a:5 dias
+b:10 dias
+c:15 dias
+d:20 dias
+correta:c
+
+pergunta7:Qual é o princípio do Direito Administrativo que exige que a administração pública atue em conformidade com a lei?
+a:Princípio da eficiência
+b:Princípio da moralidade
+c:Princípio da legalidade
+d:Princípio da publicidade
+correta:c
+
+pergunta8:O que é o ônus da prova no processo civil?
+a:Responsabilidade do juiz em apresentar provas
+b:Dever das partes de apresentar provas que sustentem suas alegações
+c:Responsabilidade do tribunal em investigar os fatos
+d:Dever dos advogados de fornecerem todas as provas necessárias
+correta:b
+
+pergunta9:Qual é a idade mínima para ser eleito presidente da República no Brasil?
+a:30 anos
+b:35 anos
+c:40 anos
+d:45 anos
+correta:b
+
+pergunta10:Qual é a diferença entre dolo e culpa no Direito Penal?
+a:Dolo é a intenção de cometer o crime, enquanto culpa é a ausência de intenção
+b:Dolo é um crime mais grave que a culpa
+c:Culpa é a intenção de cometer o crime, enquanto dolo é a ausência de intenção
+d:Não há diferença entre dolo e culpa
+correta:a
+
+pergunta11:O que é uma ação de usucapião?
+a:Processo para desapropriar um imóvel para uso público
+b:Processo para adquirir a propriedade de um bem móvel ou imóvel pelo exercício da posse durante determinado período
+c:Processo para contestar a validade de um contrato
+d:Processo para reintegrar a posse de um bem
+correta:b
+
+pergunta12:Qual é a principal característica do regime de bens da comunhão parcial?
+a:Todos os bens adquiridos antes e durante o casamento são comuns
+b:Somente os bens adquiridos durante o casamento são comuns, exceto os recebidos por herança ou doação
+c:Todos os bens adquiridos antes do casamento são comuns
+d:Somente os bens recebidos por herança ou doação são comuns
+correta:b
+
+pergunta13:O que significa a sigla STJ?
+a:Superior Tribunal de Justiça
+b:Supremo Tribunal de Julgamento
+c:Superior Tribunal Jurídico
+d:Supremo Tribunal de Justiça
+correta:a
+
+pergunta14:Qual é a principal finalidade do Direito Trabalhista?
+a:Regular as relações comerciais
+b:Regular as relações entre empregados e empregadores
+c:Proteger o meio ambiente do trabalho
+d:Estabelecer normas de convivência social
+correta:b
+
+pergunta15:O que é a teoria do fato jurídico?
+a:Estudo das normas jurídicas
+b:Estudo dos princípios constitucionais
+c:Estudo das relações de trabalho
+d:Estudo dos fatos que geram efeitos jurídicos
+correta:d
+
+pergunta16:O que é um contrato de adesão?
+a:Contrato em que as cláusulas são negociadas entre as partes
+b:Contrato em que as cláusulas são impostas por uma das partes, cabendo à outra parte aceitá-las ou não
+c:Contrato que regula relações trabalhistas
+d:Contrato que trata de relações comerciais internacionais
+correta:b
+
+pergunta17:O que é o princípio da dignidade da pessoa humana?
+a:Princípio que estabelece a liberdade de expressão
+b:Princípio que assegura o direito à propriedade
+c:Princípio fundamental que reconhece a importância de se proteger e promover a dignidade de todos os indivíduos
+d:Princípio que regula as atividades econômicas
+correta:c
+
+pergunta18:O que é uma ação direta de inconstitucionalidade (ADI)?
+a:Ação para declarar a constitucionalidade de uma lei
+b:Ação para declarar a inconstitucionalidade de uma lei ou ato normativo federal ou estadual
+c:Ação para resolver conflitos de competência entre entes federativos
+d:Ação para proteger direitos individuais contra atos administrativos
+correta:b
+
+pergunta19:Qual é a função principal do Ministério Público?
+a:Defender os interesses do governo
+b:Elaborar leis
+c:Promover a justiça e a defesa da ordem jurídica e dos interesses sociais e individuais indisponíveis
+d:Julgar processos criminais
+correta:c
+
+pergunta20:O que é um embargo de declaração?
+a:Recurso utilizado para contestar a competência do juiz
+b:Recurso utilizado para solicitar a reconsideração de uma decisão judicial
+c:Recurso utilizado para esclarecer obscuridades, contradições ou omissões em uma decisão judicial
+d:Recurso utilizado para pedir a nulidade de um processo
+correta:c

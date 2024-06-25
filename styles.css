@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.homepage {
+    background-color: hsla(160, 0%, 88%, 1); /* Cor de fundo semelhante ao das alternativas */
+}
+
+#homepage-container {
+    background-color: white;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+}
+
+#quiz-container {
+    background-color: white;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+    overflow-y: auto; /* Adiciona rolagem vertical se necessário */
+    max-height: 500px; /* Altura máxima para limitar a área de exibição */
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 2em;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+    background-color: hsla(160, 0%, 88%, 1);
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form label:hover {
+    background-color: hsla(160, 0%, 80%, 1);
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+#button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+#back-button-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 12px 24px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+#quiz-container.results {
+    background-color: white;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+    overflow-y: auto; /* Adiciona rolagem vertical se necessário */
+    max-height: 1500px; /* Altura máxima para a área de resultados */
+}
